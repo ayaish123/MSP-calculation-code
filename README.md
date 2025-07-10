@@ -1,5 +1,5 @@
 # MSP-calculation-code
-Code used to calculate the minimum sale price for r-PVC in (doi//).
+Code used to calculate the minimum sale price for r-PVC in (10.1021/acssuschemeng.5c05516).
 
 ### Description of the Code
 
